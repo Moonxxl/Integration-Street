@@ -3,7 +3,7 @@ const world = document.getElementById("world");
 const bg = document.getElementById("background");
 
 let x = 200;
-let speed = 15;
+let speed = 10;
 let keys = {};
 let frame = 0;
 let facingLeft = false;
